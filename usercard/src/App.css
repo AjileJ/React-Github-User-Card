@@ -20,3 +20,13 @@
 .App-link {
   color: #09d3ac;
 }
+div.card-info {
+  border:3px solid gold;
+  background: black;
+}
+p {
+  color: red;
+}
+h3 {
+  color:gray;
+}
